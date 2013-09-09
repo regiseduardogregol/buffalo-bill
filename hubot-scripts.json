@@ -13,7 +13,6 @@
   , "bitcoin.coffee"
   , "cowsay.coffee"
   , "dealwithit.coffee"
-  , "dnsimple.coffee"
   , "lmgtfy.coffee"
   , "xkcd.coffee"
 ]
