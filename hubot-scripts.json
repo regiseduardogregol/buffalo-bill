@@ -15,4 +15,5 @@
   , "dealwithit.coffee"
   , "lmgtfy.coffee"
   , "xkcd.coffee"
+  , "ping.coffee"
 ]
