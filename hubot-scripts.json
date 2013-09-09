@@ -16,4 +16,5 @@
   , "lmgtfy.coffee"
   , "xkcd.coffee"
   , "ping.coffee"
+  , "keep-alive.coffee"
 ]
